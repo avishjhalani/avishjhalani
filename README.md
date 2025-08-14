@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a third-year B.Tech (CSE) student at JECRC University with a passion for software development and<br>problem-solving. I love building efficient solutions and thrive in dynamic environments. My experience juggling<br>multiple responsibilities has made me adaptable and detail-oriented. I’m excited to grow as a Software Engineer<br>and contribute to impactful projects.
+I’m a  B.Tech (CSE) student at JECRC University with a passion for software development and<br>problem-solving. I love building efficient solutions and thrive in dynamic environments. My experience juggling<br>multiple responsibilities has made me adaptable and detail-oriented. I’m excited to grow as a Software Engineer<br>and contribute to impactful projects.
 
 
 ## 🌐 Socials:
