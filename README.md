@@ -146,9 +146,6 @@ Tech: `Python (NumPy, Pandas, Matplotlib)` • `MySQL` • `Power BI`
         <li>🎓 B.Tech Computer Science, JECRC University, Jaipur — CGPA 8.7 (2022–2026).</li>
       </ul>
     </td>
-    <td width="45%" valign="top" align="center">
-      <img width="100%" src="https://raw.githubusercontent.com/avishjhalani/avishjhalani/main/assets/metrics-achievements.svg" alt="GitHub Achievements Metrics"/>
-    </td>
   </tr>
 </table>
 
