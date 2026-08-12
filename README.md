@@ -1,8 +1,8 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Avish%20Jhalani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Avish%20Jhalani&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Avish+Jhalani;Backend+Developer;AI+Powered+Application+Builder;NestJS+%7C+Next.js+%7C+Node.js;Always+Learning+Something+New"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B+I'm+Avish+Jhalani;Backend+Developer;NestJS+%7C+Next.js+%7C+Node.js;Building+Real-time+%26+Distributed+Systems;Always+Learning+Something+New"/>
 </p>
 
 <p align="center">
@@ -17,16 +17,15 @@
   <tr>
     <td width="60%" valign="top">
       <h2>💫 About Me</h2>
-      <p>🚀 Software Engineer passionate about building scalable backend systems and AI-powered applications.</p>
+      <p>🚀 Backend-focused software engineer who builds scalable, production-grade systems.</p>
       <ul>
-        <li>🔭 Currently building <b>AI Resume Optimizer</b>, <b>Automated Code Review Tools</b>, and backend APIs.</li>
+        <li>🔭 Recently built <b>Collab-Docs</b>, a real-time collaborative editor using CRDTs, and two other production backend systems (see below).</li>
         <li>🌱 Learning <b>Distributed Systems</b>, <b>System Design</b>, and <b>Cloud Architecture</b>.</li>
-        <li>💼 Software Engineering Intern at <b>Global AI Technologies</b>.</li>
-        <li>⚡ Built production-ready APIs using <b>NestJS</b>, <b>Redis</b>, <b>BullMQ</b>, and <b>PostgreSQL</b>.</li>
-        <li>💬 Ask me about <b>Backend Development</b>, <b>NestJS</b>, <b>Node.js</b>, <b>OpenAI APIs</b>, <b>DSA</b>, and <b>System Design</b>.</li>
-        <li>🎯 Solved <b>500+ DSA problems</b> across LeetCode & Codeforces.</li>
-        <li>☁️ Google Cloud Certified.</li>
-        <li>⚡ Fun Fact: I love automating developer workflows using AI.</li>
+        <li>💼 Software Engineering Intern at <b>Global AI Technologies</b> (Jan–Jun 2026).</li>
+        <li>⚡ Built and deployed APIs using <b>NestJS</b>, <b>Redis</b>, <b>BullMQ</b>, <b>PostgreSQL</b>, and <b>Docker</b>.</li>
+        <li>💬 Ask me about <b>Backend Development</b>, <b>NestJS</b>, <b>Node.js</b>, <b>PostgreSQL/PostGIS</b>, <b>DSA</b>, and <b>System Design</b>.</li>
+        <li>🎯 Solved <b>500+ DSA problems</b> across LeetCode & Codeforces — top 14% in LeetCode Biweekly Contest 187.</li>
+        <li>☁️ Google Cloud Certified (Foundations).</li>
       </ul>
     </td>
     <td width="40%" valign="middle" align="center">
@@ -41,12 +40,12 @@
 
 | Category | Badges |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens) |
+| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![SocketIO](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socketdotio) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens) |
 | **Frontend** | ![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) |
-| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) |
-| **AI / Data Science** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql) ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) |
+| **Cloud & DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) |
+| **Data / Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) |
 
 ---
 
@@ -54,53 +53,57 @@
 
 ### 🏢 Software Engineering Intern — *Global AI Technologies*
 📅 **Jan 2026 – Jun 2026**
+Tech: `Python (NumPy, Pandas, Matplotlib)` • `MySQL` • `Power BI`
 
-- 📊 Analyzed **1M+ e-commerce transactions** using analytical models.
-- 📈 Built interactive and comprehensive **Power BI dashboards** for business insights.
-- 🐍 Automated data extract-transform-load (ETL) and analytics using **Python + SQL**.
-- 📉 Discovered actionable insights that directly drove reduction in order return rates.
+- 📊 Analyzed a Q4 e-commerce dataset of **1,000,000+ transactions** to root-cause a return rate spike from **12% to 19%**.
+- 📈 Built an interactive **Power BI dashboard** from raw CSV data — cleaned, modeled, and visualized — and presented findings to the reporting manager.
+- 🔎 Identified high-risk order segments: **COD orders (84.4% return rate)** and **size-mismatch returns (37% of total)**.
+- ✅ Translated findings into three operational recommendations projected to cut returns by **7–11%**.
 
 ---
 
 ## 🚀 Featured Projects
 
 <details open>
+<summary><b>📝 Collab-Docs — Real-time Collaborative Document Editor</b></summary>
+<br/>
+
+> A real-time collaborative document workspace built with CRDTs, deployed across three platforms.
+
+- **Tech Stack:** `React` • `NestJS` • `Yjs` • `Socket.io` • `PostgreSQL` • `Redis` • `Prisma` • `Docker`
+- ✨ **Key Features:**
+  - Real-time collaborative editing using **Yjs CRDTs** and WebSockets, deployed across Vercel, Render, and Supabase — **327ms average round-trip sync latency** on cross-continent connections.
+  - Cut PostgreSQL write overhead by **98%** using a custom 5-second debounced state-save buffer instead of per-keystroke writes.
+  - Cut network payload size by **90%+** by transmitting compressed binary Yjs deltas (30–60 bytes/frame) instead of full document state, with a Redis Pub/Sub adapter to sync state across load-balanced instances.
+- 🔗 **Repository & Live Link** in profile links.
+</details>
+
+<details>
 <summary><b>🩸 BloodLink — Full Stack Blood Donor Matching Platform</b></summary>
 <br/>
 
-> A real-time geographical donor matching system connecting people in critical need with nearby compatible blood donors.
+> A geolocation-based platform matching blood requests to eligible donors within a 10km radius.
 
-- **Tech Stack:** `Next.js` • `NestJS` • `PostgreSQL` • `Redis` • `Prisma` • `JWT`
+- **Tech Stack:** `Next.js` • `NestJS` • `PostgreSQL` • `Redis` • `Prisma` • `JWT` • `Nodemailer`
 - ✨ **Key Features:**
-  - Location-based matching with spatial database queries (`ST_DWithin` & `ST_Distance`).
-  - Secure HTTP-Only cookie-based JWT sessions (XSS prevention).
-  - High performance caching with Redis.
-  - Automated NodeMailer notifications with action-oriented buttons.
-  - Fully Dockerized and tested end-to-end.
+  - **PostGIS** spatial queries (`ST_DWithin`, `ST_Distance`) for radius-based donor matching.
+  - Verified reliability of the donor-matching flow with an **11-case E2E suite** (Jest/Supertest) covering auth, matching, confirmation, and fulfilment against a seeded database.
+  - Sessions secured via JWT in `httpOnly`, `sameSite` cookies to prevent XSS-based token theft.
 - 🔗 **Deployment Link:** [bloodlink1.vercel.app](https://bloodlink1.vercel.app/)
 </details>
 
 <details>
-<summary><b>📨 Notification Service API — Production-grade Queue System</b></summary>
+<summary><b>📨 Notification Service API — Production-grade Async Queue System</b></summary>
 <br/>
 
-> A highly scalable, async email notifications microservice designed to handle high-throughput delivery.
+> A production-ready REST API for async email delivery at scale.
 
-- **Tech Stack:** `NestJS` • `Redis` • `BullMQ` • `Nodemailer` • `Docker`
+- **Tech Stack:** `NestJS` • `PostgreSQL` • `Redis` • `BullMQ` • `Prisma` • `Docker` • `JWT` • `Resend`
 - ✨ **Key Features:**
-  - Async task queue processing using BullMQ and Redis.
-  - Robust automatic retry mechanism with exponential backoff.
-  - Route rate-limiting and JWT protection.
-  - Fully dockerized environment for seamless scale.
-</details>
-
-<details>
-<summary><b>🤖 AI Projects & Developer Productivity Tools</b></summary>
-<br/>
-
-- **AI Resume Optimizer**: Analyzes resumes against job descriptions and provides automated keywords & styling advice.
-- **AI Code Review Tool**: An automated git integration that checks pull requests for security vulnerabilities and code styling issues.
-- **OpenAI Integrations**: Custom agent workflows for developer productivity and workflow automation.
+  - API responds in **~300ms** by offloading email sending to a background worker via Redis job queues (BullMQ).
+  - Automatic retry with exponential backoff (5s → 10s → 20s) on failed deliveries.
+  - JWT authentication (7-day expiry) and per-user rate limiting at 5 req/min, returning 429 on excess requests.
+  - Fully dockerized for consistent deployment.
 </details>
 
 ---
@@ -137,10 +140,10 @@
     <td width="55%" valign="top">
       <ul>
         <li>🏅 <b>500+ DSA Problems Solved</b> across LeetCode & Codeforces.</li>
-        <li>☁️ <b>Google Cloud Certified</b> Cloud Engineer.</li>
-        <li>🚀 Built and deployed high-performance production-ready backend systems.</li>
-        <li>🤖 Designed custom AI agent integrations & developer productivity tools.</li>
-        <li>⚙️ Deep knowledge in <b>System Design</b> and <b>Distributed System Architectures</b>.</li>
+        <li>🥇 Top <b>14%</b> in LeetCode Biweekly Contest 187.</li>
+        <li>☁️ <b>Google Cloud Certified</b> (Foundations).</li>
+        <li>🚀 Built and deployed three production-grade backend systems (Collab-Docs, BloodLink, Notification Service API).</li>
+        <li>🎓 B.Tech Computer Science, JECRC University, Jaipur — CGPA 8.7 (2022–2026).</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
