@@ -37,6 +37,7 @@
       <ul>
         <li>🌐 <b>Live Portfolio:</b> <a href="https://avishportfolio00.netlify.app/"><b>avishportfolio00.netlify.app</b></a> (featuring an interactive AI Recruiter Chatbot powered by Groq LLM).</li>
         <li>⚡ <b>Flagship Project:</b> Built <a href="https://powerpilot-ai-y758.onrender.com/"><b>PowerPilot AI</b></a> — an autonomous pipeline compiling 500k+ rows in 8.6s at &lt;35MB RAM into Power BI dashboards.</li>
+        <li>🛡️ <b>Multi-Agent AI Support:</b> Built <a href="https://resolvedesk-exmk.onrender.com/"><b>ResolveDesk</b></a> — a LangGraph + Gemini Vision + AWS S3 customer support &amp; dispute resolution platform with Human-in-the-Loop escalation.</li>
         <li>📝 <b>Real-Time Collaboration:</b> Built <a href="https://collabdocs-ten.vercel.app/"><b>Collab-Docs</b></a> using Yjs CRDTs & WebSockets with 98% reduced database write overhead.</li>
         <li>💼 <b>Software Engineering Intern</b> at <b>Global AI Technologies</b> (Jan–Jun 2026).</li>
         <li>🎯 <b>500+ DSA Problems Solved</b> across LeetCode & Codeforces — <b>Top 14%</b> in LeetCode Biweekly Contest 187.</li>
@@ -66,6 +67,20 @@
 ---
 
 ## 🚀 Featured Engineering Projects
+
+<details open>
+<summary><b>🛡️ ResolveDesk — Multi-Agent AI Customer Support &amp; Dispute Resolution Platform</b></summary>
+<br/>
+
+> Stateful multi-agent support &amp; refund operations console combining LLM intent routing, multimodal defect inspection, policy RAG, and Human-in-the-Loop supervisor escalation.
+
+- **Tech Stack:** `LangGraph` • `FastAPI` • `Groq LLM` • `Gemini Vision` • `ChromaDB` • `AWS S3` • `React / TypeScript` • `Docker`
+- ✨ **Key Architectural Achievements:**
+  - Built a conditional **LangGraph** state machine (`SUPPORT_QA` vs `DISPUTE_CLAIM`) with prompt-injection guardrails, `interrupt()`-based Human-in-the-Loop escalation (`>= $50` / high-risk velocity), and `SqliteSaver` persistence.
+  - Integrated **AWS S3** presigned uploads, **Gemini Vision** side-by-side catalog vs. defect photo inspection (with `PIL` pixel-divergence fallback), and **ChromaDB** RAG with SHA-256 auto-reindexing.
+  - Verified end-to-end reliability with a **10-case `pytest` integration suite** and single-container Docker deployment serving React + FastAPI.
+- 🔗 **Links:** [Live Application](https://resolvedesk-exmk.onrender.com/) • [GitHub Repository](https://github.com/avishjhalani/ResolveDesk)
+</details>
 
 <details open>
 <summary><b>⚡ PowerPilot AI — Autonomous Agentic Power BI Dashboard Compiler (Flagship)</b></summary>
